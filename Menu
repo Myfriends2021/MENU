@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[COLOR yellow][B]||| BEM [COLOR orange]VINDOS AMIGOS[COLOR yellow]|||[/B][/COLOR]</name>
+<name>[COLOR yellow][B]|||MENU [COLOR orange]FIMES - SÉRIES - TVs - VARIEDADES[COLOR yellow]|||[/B][/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/6/items/varios-filmes/VARIOS%20FILMES.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Myfriends2021/Filmes/main/Filmes</externallink>
+<externallink></externallink>
 <fanart>https://ia601507.us.archive.org/4/items/varios-filmes_202105/VARIOS%20FILMES.png</fanart>
 <info>Não hospedamos filmes nem baixamos filmes,apenas indicamos o que existe na internet.</info>
 </channel>
@@ -10,10 +10,20 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR yellow][B]|||Séries[COLOR orange]VARIAS SÉRIES[COLOR yellow]|||[/B][/COLOR]</name>
+<name>[COLOR yellow][B]|||Séries[COLOR orange]- VARIAS SÉRIES[COLOR yellow]|||[/B][/COLOR]</name>
 <thumbnail>http://www.minhaserie.com.br/uploads/editor_pictures/000/015/856/content_pic.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Myfriends2021/Series/main/Series%20torrents</externallink>
 <fanart>https://freepikpsd.com/media/2020/09/Money-Heist-TV-Series-PNG-Photo.png</fanart>
+<info>VERIFIQUE A CLASSIFICAÇÃO</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR yellow][B]|||Filmes[COLOR orange]- VARIOS FILMES[COLOR yellow]|||[/B][/COLOR]</name>
+<thumbnail>https://www.oficinadanet.com.br/imagens/post/22091/janelas.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.ytimg.com/vi/rQ1_ws08sXk/maxresdefault.jpg</fanart>
 <info>VERIFIQUE A CLASSIFICAÇÃO</info>
 </channel>
 </channels>
