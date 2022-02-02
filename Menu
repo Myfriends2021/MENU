@@ -41,6 +41,16 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
+<name>[COLOR yellow][B]|||CANAIS DE RÁDIOS[COLOR orange][COLOR yellow]|||[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>RADIOS NACIONAIS E INTERNACIONAIS</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
 <name>[COLOR yellow][B]||| CANAIS DE TV ABERTOS [COLOR orange][COLOR yellow]|||[/B][/COLOR]</name>
 <thumbnail>https://escola-ebd.com.br/wp-content/uploads/2018/03/NUMEROS-DE-CANAIS-DIGITAL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Myfriends2021/CANAIS-DE-TV/main/CANAIS%20DE%20TV</externallink>
